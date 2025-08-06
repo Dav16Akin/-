@@ -53,8 +53,3 @@ Here are a few projects I'm proud of:
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dav16Akin/Dav16Akin/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
