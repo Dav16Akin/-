@@ -15,8 +15,8 @@
 
 Here are a few projects I'm proud of:
 
-- 🌐 [**MyHustle**](https://github.com/Dav16Akin/huzzl) — Platform for showcasing student side-hustles, built with Next.js & MongoDB
-- 🧾 [**Mini Invoice Generator**](https://github.com/Dav16Akin/omomiconsulting) — Omomi Consultinng Landing page website
+- 🌐 [**Huzzl**](https://github.com/Dav16Akin/huzzl) — Platform for showcasing student side-hustles, built with Next.js & MongoDB
+- 🧾 [**OmomiConsulting**](https://github.com/Dav16Akin/omomiconsulting) — Omomi Consultinng Landing page website
 - [**Sportx**](https://github.com/Dav16Akin/sportx) - A E-commerce platform for sport wears and equipments
 
 ---
