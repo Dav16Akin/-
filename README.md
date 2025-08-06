@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Akin</h1>
 <h3 align="center">Software Engineer | Game Development Enthusiast | Passionate About Scalable Systems & User-Centric Solutions</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Engineering+robust+web+solutions;Exploring+game+development+technologies;Always+learning+%26+building+🧠" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🧰 Tech Stack
@@ -15,23 +11,9 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dav16Akin&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dav16Akin&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dav16Akin&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🚀 Featured Projects
 
 Here are a few projects I'm proud of:
-
 
 - 🌐 [**MyHustle**](https://github.com/Dav16Akin/huzzl) — Platform for showcasing student side-hustles, built with Next.js & MongoDB
 - 🧾 [**Mini Invoice Generator**](https://github.com/Dav16Akin/omomiconsulting) — Omomi Consultinng Landing page website
